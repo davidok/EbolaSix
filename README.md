@@ -6,4 +6,4 @@ Question: Even though the data will live in data.js, what would be the best way 
 
 Like my hand-drawn chart, my horizontal axis will be "Date," and my vertical axis will be "Incidences." I will be using the line chart example shown on https://developers.google.com/chart/interactive/docs/gallery/linechart after 5 failed attempts at trying to code using class examples. I originally tried to manipulate the chart data we used in class but couldn't figure out why the lines weren't showing. I felt like I was close once -- the chart itself showed but the lines didn't.
 
-I added markers for each data point, per chapter 4 of Dona Wong's book.
+I added markers for each data point, per chapter 4 of Dona Wong's book. I also added an outline around the chart.

@@ -16,6 +16,7 @@ function drawChart() {
 	]);
 
 	var options = {
+		title: 'West African Ebola Cases Still Rising',
 		width : 1000,
 		height : 563,
 		hAxis : {
